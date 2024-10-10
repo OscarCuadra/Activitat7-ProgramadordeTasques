@@ -1,3 +1,3 @@
 # Activitat7-ProgramadordeTasques
 
-Acivitat 1 [(activitat1.md)]
+- [Activitat 1](main/activitat1.md)
