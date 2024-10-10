@@ -8,7 +8,7 @@
 
 ![Captura desde 2024-10-10 14-47-33](https://github.com/user-attachments/assets/6b6cdf76-1a3d-4830-8b84-337aed682013)
 
-### 3. Dona-li a "Archivo", després a "Guardar como" i guarda el fitxer on vulguis i posa-li de nom "-.cmd", on "-" sigui el nom del recordatori.
+### 3. Dona-li a "Archivo", després a "Guardar como" i guarda el fitxer on vulguis i posa-li de nom "x.cmd", on "x" sigui el nom del recordatori.
 
 ![Captura desde 2024-10-10 14-50-17](https://github.com/user-attachments/assets/16616448-f92e-4950-a822-6310132c4837)
 
