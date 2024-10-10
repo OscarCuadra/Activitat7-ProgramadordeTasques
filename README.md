@@ -1,3 +1,3 @@
 # Activitat7-ProgramadordeTasques
 
-Acivitat 1 [activitat1.md]
+Acivitat 1 [(activitat1.md)]
